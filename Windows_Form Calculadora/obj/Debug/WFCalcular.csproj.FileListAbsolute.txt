@@ -1,0 +1,93 @@
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\bin\Debug\WFCalcular.exe.config
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\bin\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\bin\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.Form1.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.Properties.Resources.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\WFCalcular\obj\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\bin\Debug\WFCalcular.exe.config
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\bin\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\bin\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.Form1.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.Properties.Resources.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\bin\Debug\info.lundin.math.dll
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\1er Parcial\WFCalcular\obj\Debug\WFCalcular.csproj.CopyComplete
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\bin\Debug\WFCalcular.exe.config
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\bin\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\bin\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\bin\Debug\info.lundin.math.dll
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.Form1.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.Properties.Resources.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.csproj.CopyComplete
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\WFCalcular\obj\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\bin\Debug\WFCalcular.exe.config
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\bin\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\bin\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\bin\Debug\info.lundin.math.dll
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.Form1.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.Properties.Resources.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.csproj.CopyComplete
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\practicas\2doParcial\Respaldo\WFCalcularComplex\obj\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe.config
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\bin\Debug\WFCalcular.pdb
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\bin\Debug\info.lundin.math.dll
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.Form1.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.Properties.Resources.resources
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.exe
+D:\Users\maria\OneDrive - Instituto Politecnico Nacional\8vo\Ingeniería de Software\programas\2doParcial\2°Respaldo\1.-WFCalcularComplex\obj\Debug\WFCalcular.pdb
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe.config
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\bin\Debug\WFCalcular.pdb
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\bin\Debug\info.lundin.math.dll
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.Form1.resources
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.Properties.Resources.resources
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CopyComplete
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.exe
+C:\Users\alfredo M\Desktop\1.-WFCalcularComplex\obj\Debug\WFCalcular.pdb
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe.config
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\bin\Debug\WFCalcular.pdb
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\bin\Debug\info.lundin.math.dll
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.Form1.resources
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.Properties.Resources.resources
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CopyComplete
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.exe
+C:\Users\alfredo M\Desktop\INGENIERIA EN SOFT\1.-WFCalcularComplex\obj\Debug\WFCalcular.pdb
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe.config
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\bin\Debug\WFCalcular.exe
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\bin\Debug\WFCalcular.pdb
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\bin\Debug\info.lundin.math.dll
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.AssemblyReference.cache
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.Form1.resources
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.Properties.Resources.resources
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.GenerateResource.cache
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CoreCompileInputs.cache
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.csproj.CopyComplete
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.exe
+D:\0000_otros\PROGRAMAS C#\1.-WFCalcularComplex\obj\Debug\WFCalcular.pdb
