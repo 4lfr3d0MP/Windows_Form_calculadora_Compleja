@@ -1,6 +1,8 @@
 # Calculadora con Numeros Complejos
 Aplicacion ejecutable hecha en Windows Form(C#) para una calculadora cientifica compleja.
 
+Las operaciones son las mas sencillas que se pueden hacer en una calculadora cientifica basica, desde productos de numeros hasta identidades trigonometricas 
+
 Imagenes del archivo ejecutable donde se tienen las opciones de la calculadora. 
 
 # 1- Parte Real: 
